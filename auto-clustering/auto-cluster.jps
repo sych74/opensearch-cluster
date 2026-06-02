@@ -128,9 +128,6 @@ actions:
         type: success
         message: OpenSearch admin password changed successfully. 
 
-
-
-
   clusterInit:
     - cmd[nosqldb]: |-
         sudo service opensearch stop;
