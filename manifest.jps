@@ -1,6 +1,6 @@
 type: install
 version: '1.9.1'
-baseUrl: https://raw.githubusercontent.com/sych74/opensearch-cluster/JE-76031
+baseUrl: https://raw.githubusercontent.com/jelastic-jps/opensearch-cluster/main
 name: OpenSearch Cluster
 id: opensearch-dashboard
 logo: /images/opensearch-logo.png
